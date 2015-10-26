@@ -9,6 +9,8 @@ public class Dvd {
     private String name;
     private String description;
     private String genre;
+    private String test;
+    private String test2;
 
     public void setName(String name) {
         this.name = name;
